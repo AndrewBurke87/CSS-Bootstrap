@@ -1,1 +1,4 @@
-- designed webpage with bootstrap added images and made it viewable on differnt sized screens. created an index.html, portfolio.html and a contact.html files created a style.css. linked the portfolio, contact and index pages on all pages.
+this is a basic starter portfolio that includes a simple about me contact page and an introduction. Still working on it and I wasn't sure what to put on my portfolio so be gentle... lol the site link a three pages through the navbar at the top of the screen. i added a responsive image as well as a grid any feedback would be great still trying to get the hang of these readme.md files.
+
+Here is the link to my repository https://andrewburke87.github.io/CSS-Bootstrap/
+I could not get the screenshot to display I kept getting a 404 error.
