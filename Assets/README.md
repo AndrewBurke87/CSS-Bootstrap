@@ -1,0 +1,1 @@
+- designed webpage with bootstrap added images and made it viewable on differnt sized screens. created an index.html, portfolio.html and a contact.html files created a style.css. linked the portfolio, contact and index pages on all pages.
